@@ -5,13 +5,11 @@ import org.testng.annotations.Test;
 
 import repackage.Repackage;
 
-public class Test6 {
+public class Test7 {
 	
-
 	@Test
 	public void demo() {
-		Reporter.log("hello java",true);
-		
+		Reporter.log("hello selenium",true);
 	}
 
 }
