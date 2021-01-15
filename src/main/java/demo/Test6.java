@@ -10,7 +10,7 @@ public class Test6 {
 
 	@Test
 	public void demo() {
-		Reporter.log("hello java",true);
+		Reporter.log("hello PHP",true);
 		
 	}
 

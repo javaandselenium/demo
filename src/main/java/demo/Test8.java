@@ -5,10 +5,11 @@ import org.testng.annotations.Test;
 
 import repackage.Repackage;
 
-public class Test1 {
+public class Test8 {
+	
 	@Test
 	public void demo() {
-		Reporter.log("hello python",true);
+		Reporter.log("hello Objective c",true);
 	}
 
 }

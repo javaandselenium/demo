@@ -9,7 +9,7 @@ public class Test7 {
 	
 	@Test
 	public void demo() {
-		Reporter.log("hello selenium",true);
+		Reporter.log("hello Dart",true);
 	}
 
 }

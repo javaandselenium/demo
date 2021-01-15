@@ -8,7 +8,7 @@ import repackage.Repackage;
 public class Test5 {
 	@Test
 	public void demo() {
-		Reporter.log("hello",true);
+		Reporter.log("hello Ruby",true);
 	}
 
 }
