@@ -11,6 +11,7 @@
       <class name="demo.Test6"/>
       <class name="demo.Test7"/>
       <class name="demo.Test8"/>
+       <class name="demo.Test9"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
